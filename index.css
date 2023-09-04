@@ -63,7 +63,8 @@ button{
 
 .schemeName{
     font-weight: bold; 
-    margin: auto
+    margin: auto;
+    font-size: 1.5rem;
 }
 
 
